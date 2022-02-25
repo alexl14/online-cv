@@ -12,11 +12,11 @@ sidebar:
     avatar: alex.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: email@gmail.com
+    email: myemail@gmail.com
     phone: 69xxxxxxxx
     citizenship:
     website: #do not add http://
-    linkedin: Alex Lenis
+    linkedin: AlexLenis
     xing: 
     github: alexl14
     telegram: # add your nickname without '@' sign
@@ -50,7 +50,7 @@ sidebar:
         
 career-profile:
     title: Career Profile
-    summary: |
+    summary: 
       I am currently a computer science student at Ionian University. I really enjoy coding and learning about game and software development 
       which I am keen to persue a career in. I am a hard worker and I enjoy working with other people to complete a project. 
 
@@ -60,7 +60,7 @@ experiences:
   
 projects:
     title: Projects
-    intro: >
+    intro: 
       I am currently working on a small and simple Tower Defense game. 
 
 skills:
