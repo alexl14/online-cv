@@ -71,19 +71,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 87%
+        level: 75%
 
       - name: C#
         level: 75%
 
       - name: Java
-        level: 87%
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 90%
+        level: 83%
 
       - name: C & C++
-        level: 93%
+        level: 90%
 
       - name: Lua
         level: 60%
