@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Alexandros Lenis
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: p19leni@ionio.gr 
+    phone: 69xxxxxxxx
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: blog.webjeda.com #do not add http://     remove
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: alexl14
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: 
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -32,20 +32,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Greek
         level: Professional
 
-      - idiom: Spanish
+      - idiom: 
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gamming
         link:
 
-      - item: Snowboarding
+      - item: Game Developemnt
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
